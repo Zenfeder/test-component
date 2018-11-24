@@ -1,9 +1,10 @@
 {
   "name": "kada-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "chenguo",
-  "private": true,
+  "main": "packages/index.js",
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
