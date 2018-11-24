@@ -4,6 +4,7 @@ import Vue from 'vue';
 import App from './App';
 import router from './router';
 import KdUI from 'packages/index';
+import 'packages/theme-default/lib/index.css';
 
 Vue.use(KdUI);
 Vue.config.productionTip = false;

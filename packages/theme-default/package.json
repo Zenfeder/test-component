@@ -1,0 +1,28 @@
+{
+  "name": "kada-theme-default",
+  "version": "1.0.1",
+  "description": "Kada component default theme.",
+  "main": "lib/index.css",
+  "style": "lib/index.css",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "scripts": {
+    "dev": "gulp build && gulp watch",
+    "build": "gulp build"
+  },
+  "keywords": [
+    "kada",
+    "theme"
+  ],
+  "author": "chenguo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-sass": "^3.1.0",
+    "gulp-autoprefixer": "^4.0.0"
+  },
+  "dependencies": {}
+}
