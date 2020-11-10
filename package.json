@@ -1,7 +1,7 @@
 {
   "name": "kada-components",
-  "version": "1.0.2",
-  "description": "A Vue.js project",
+  "version": "1.0.4",
+  "description": "组件库搭建测试",
   "author": "chenguo",
   "main": "packages/index.js",
   "private": false,
